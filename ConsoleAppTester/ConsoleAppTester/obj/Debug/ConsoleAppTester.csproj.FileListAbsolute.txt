@@ -1,0 +1,7 @@
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe.config
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\bin\Debug\ConsoleAppTester.pdb
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.AssemblyReference.cache
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.CoreCompileInputs.cache
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.exe
+C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.pdb
