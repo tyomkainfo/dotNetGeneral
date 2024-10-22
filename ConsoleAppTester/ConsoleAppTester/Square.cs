@@ -8,18 +8,20 @@ namespace ConsoleAppTester
 {
     internal class Square : Figure
     {
-        public Square(double side) : base(side)
+        public double A { set; get; }
+        public Square(double a) 
         {
+            A = a;
         }
 
         public override double GetArea()
         {
-            return Side * Side;
+            return A * A;
         }
 
         public override string ToString()
         {
-            return "Квадрат со стороной " + Side + ", площадь: " + GetArea();
+            return "Квадрат со стороной " + A + ", площадь: " + GetArea();
         }
     }
 }

@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppTester
 {
-    internal class Triangle : Figure
+    internal class Triangle : Rectangle
     {
-        public double Height { get; set; }
+        public double C { get; set; }
 
-        public Triangle(double baseSide, double height) : base(baseSide)
+        public Triangle(double a, double b, double c) : base(a, b)
         {
-            Height = height;
+            C = c;
         }
 
         public override double GetArea()
         {
-            return 0.5 * Side * Height;
+            return MathHelper.GetTriangleArea(A, B, C);
         }
 
         public override string ToString()
         {
-            return "Треугольник с основанием " + Side + " и высотой " + Height + ", площадь: " + GetArea();
+            return "Треугольник с сторонами " + A + "  " + B + ","+ C+ " площадь: " + GetArea();
         }
     }
 }

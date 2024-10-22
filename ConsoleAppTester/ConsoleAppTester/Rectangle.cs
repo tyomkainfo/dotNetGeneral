@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppTester
 {
-    internal class Rectangle : Figure
+    internal class Rectangle : Square
     {
-        public double Height { get; set; }
+        public double B { get; set; }
 
-        public Rectangle(double width, double height) : base(width)
+        public Rectangle(double a, double b) : base(a)
         {
-            Height = height;
+            B = b;
         }
 
         public override double GetArea()
         {
-            return Side * Height;
+            return A * B;
         }
 
         public override string ToString()
         {
-            return "Прямоугольник с шириной " + Side + " и высотой " + Height + ", площадь: " + GetArea();
+            return "Прямоугольник с шириной " + A + " и высотой " + B + ", площадь: " + GetArea();
         }
     }
 }
