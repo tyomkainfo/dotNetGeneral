@@ -5,3 +5,13 @@ C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.cs
 C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.CoreCompileInputs.cache
 C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.exe
 C:\dotNetGeneral\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.pdb
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.AssemblyReference.cache
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.CoreCompileInputs.cache
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.exe
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleAppTester.pdb
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe.config
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\bin\Debug\ConsoleAppTester.pdb
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\bin\Debug\MyMathLibrary.dll
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\bin\Debug\MyMathLibrary.pdb
+D:\DotNetGeneralRepo\ConsoleAppTester\ConsoleAppTester\obj\Debug\ConsoleA.1D86CD93.Up2Date

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppTester
+namespace MyMathLibrary
 {
-    internal class Figure
+    public class Figure
     {
         // public double Side { get; set; }
         /*

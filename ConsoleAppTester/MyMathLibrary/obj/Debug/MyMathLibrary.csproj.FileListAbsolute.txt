@@ -1,0 +1,6 @@
+D:\DotNetGeneralRepo\ConsoleAppTester\MyMathLibrary\bin\Debug\MyMathLibrary.dll
+D:\DotNetGeneralRepo\ConsoleAppTester\MyMathLibrary\bin\Debug\MyMathLibrary.pdb
+D:\DotNetGeneralRepo\ConsoleAppTester\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.AssemblyReference.cache
+D:\DotNetGeneralRepo\ConsoleAppTester\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.CoreCompileInputs.cache
+D:\DotNetGeneralRepo\ConsoleAppTester\MyMathLibrary\obj\Debug\MyMathLibrary.dll
+D:\DotNetGeneralRepo\ConsoleAppTester\MyMathLibrary\obj\Debug\MyMathLibrary.pdb

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppTester
+namespace MyMathLibrary
 {
-    internal class Square : Figure
+    public class Square : Figure
     {
         public double A { set; get; }
         public Square(double a) 

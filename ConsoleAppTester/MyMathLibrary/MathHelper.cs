@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppTester
+namespace MyMathLibrary
 {
     //static class - класс, который содержит только статические методы
     //статические методы - методы, которые не требуют создания объекта
     //не требует конструктора - запрет на new
-    internal static class MathHelper
+    public static class MathHelper
     {
         //static - метод принадлежит классу, а не объекту, только функция, не объект
         public static double GetCircleArea(double radius)
